@@ -33,10 +33,6 @@ This project fetches exchange rate data from [ExchangeRate-API](https://www.exch
 fetch(`https://apiurlhere/${currency_one}`);
 ```
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Acknowledgments
 
 - API Provider: [ExchangeRate-API](https://www.exchangerate-api.com/)
